@@ -11,15 +11,12 @@
 ## Table of Contents
 
 - [Free Hosting](#hosting)
-
-
-## Hosting
-
-
-## Demos
- 
-
-## Tutorials
+* [Netlify](https://www.netlify.com/)
+* [Firebase](https://firebase.google.com/)
+* [Amazon](https://aws.amazon.com/)
+* [Heroku](https://www.heroku.com/)
+* [Github Pages](https://pages.github.com/)
+* [Vercel](https://vercel.com/)
 
 
 
