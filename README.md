@@ -11,6 +11,10 @@
 ## Table of Contents
 
 - [Free Hosting](#hosting)
+
+
+## Hosting
+
 * [Netlify](https://www.netlify.com/)
 * [Firebase](https://firebase.google.com/)
 * [Amazon](https://aws.amazon.com/)
