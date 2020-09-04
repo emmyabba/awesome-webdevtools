@@ -23,6 +23,7 @@
 * [Vercel](https://vercel.com/)
 * [Surge](https://surge.sh/)
 * [Render](https://render.com/)
+* [Digitalocean](https://www.digitalocean.com/)
 
 ## Tips
 * Contribute some ;)
