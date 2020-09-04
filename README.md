@@ -1,4 +1,4 @@
-# Awesome WebDevTools [![Awesome]([![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)) ![](https://img.shields.io/badge/ABBA-Approved-green)
+# Awesome WebDevTools [![Awesome]([![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re))!] ![](https://img.shields.io/badge/ABBA-Approved-green)
 
 > Curated list of resources:  tools, videos, articles for web development 
 
@@ -46,4 +46,4 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This work (Awesome Lumen) is free of known copyright restrictions.
+This work (Awesome WebDevTools) is free of known copyright restrictions.
