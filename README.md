@@ -1,4 +1,4 @@
-# Awesome WebDevTools [![Awesome]([![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re))!] ![](https://img.shields.io/badge/ABBA-Approved-green)
+# Awesome WebDevTools [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![](https://img.shields.io/badge/ABBA-Approved-green)
 
 > Curated list of resources:  tools, videos, articles for web development 
 
