@@ -10,10 +10,10 @@
 
 ## Table of Contents
 
-- [Essentials](#essentials)
+- [Free Hosting](#freehosting)
 
 
-## Essentials
+## Free Hosting
 
 
 ## Demos
