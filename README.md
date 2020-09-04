@@ -10,10 +10,10 @@
 
 ## Table of Contents
 
-- [Free Hosting](#freehosting)
+- [Free Hosting](#hosting)
 
 
-## Free Hosting
+## Hosting
 
 
 ## Demos
