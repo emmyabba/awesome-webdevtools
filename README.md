@@ -14,7 +14,7 @@
 - [Hosting](#hosting)
 
 
-### Learning:
+## Learning:
 
 * [Free Code Camp](http://freecodecamp.org)
 * [Code Cademy](http://codecademy.com)
