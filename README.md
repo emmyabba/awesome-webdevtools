@@ -11,7 +11,7 @@
 ## Table of Contents
 
 - [Learning Platforms](#learning)
-- [Hosting](#hosting)
+- [Hosting services](#hosting)
 
 
 ## Learning:
