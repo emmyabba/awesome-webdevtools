@@ -2,7 +2,7 @@
 
 > Curated list of resources:  tools, videos, articles for web development 
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. and this tweet by [Marko Denic](https://twitter.com/denicmarko/status/1277492413032992768)*
 
 *Please read the [contribution guidelines](#guidelines) before contributing.*
 
@@ -10,10 +10,11 @@
 
 ## Table of Contents
 
-- [Free Hosting](#hosting)
+- [Hosting](#hosting)
 
 
 ## Hosting
+most of the hosting services listed her will give you access to host your files for free,  
 
 * [Netlify](https://www.netlify.com/)
 * [Firebase](https://firebase.google.com/)
@@ -24,6 +25,9 @@
 * [Surge](https://surge.sh/)
 * [Render](https://render.com/)
 * [Digitalocean](https://www.digitalocean.com/)
+* [Name Cheap](https://www.namecheap.com/)
+* [Bluehost](https://www.bluehost.com/)
+
 
 ## Tips
 * Contribute some ;)
