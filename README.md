@@ -2,7 +2,7 @@
 
 > Curated list of resources:  tools, videos, articles for web development 
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. and this tweet by [Marko Denic](https://twitter.com/denicmarko/status/1277492413032992768)*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing and this tweet by [Marko Denic](https://twitter.com/denicmarko/status/1277492413032992768)*
 
 *Please read the [contribution guidelines](#guidelines) before contributing.*
 
@@ -14,7 +14,8 @@
 
 
 ## Hosting
-most of the hosting services listed her will give you access to host your files for free,  
+
+Most of the hosting services listed her will give you access to host your files for free. 
 
 * [Netlify](https://www.netlify.com/)
 * [Firebase](https://firebase.google.com/)
