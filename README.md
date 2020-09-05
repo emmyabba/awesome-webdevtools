@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-- [Learning Platfoems](#learning)
+- [Learning Platforms](#learning)
 - [Hosting](#hosting)
 
 
@@ -48,7 +48,7 @@ Most of the hosting services listed her will give you access to host your files 
 
 
 ## Contributing
-Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the guidelines
+Found an awesome resource on web development? Send me a pull request! Just follow the guidelines
 
 #### Guidelines
 
