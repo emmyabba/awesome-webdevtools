@@ -10,7 +10,20 @@
 
 ## Table of Contents
 
+- [Learning Platfoems](#learning)
 - [Hosting](#hosting)
+
+
+# Learning:
+
+* [Free Code Camp](http://freecodecamp.org)
+* [Code Cademy](http://codecademy.com)
+* [Java script30](http://javascript30.com)
+* [Frontend Mentor](http://frontendmentor.io)
+* [Test Automation University](http://testautomationu.applitools.com)
+* [Coursera](http://coursera.org)
+* [Khanacademy](http://khanacademy.org)
+* [Solo learn](http://sololearn.com)
 
 
 ## Hosting
@@ -25,7 +38,7 @@ Most of the hosting services listed her will give you access to host your files 
 * [Vercel](https://vercel.com/)
 * [Surge](https://surge.sh/)
 * [Render](https://render.com/)
-* [Digitalocean](https://www.digitalocean.com/)
+* [Digital ocean](https://www.digitalocean.com/)
 * [Name Cheap](https://www.namecheap.com/)
 * [Bluehost](https://www.bluehost.com/)
 
