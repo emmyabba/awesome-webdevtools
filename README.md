@@ -12,7 +12,7 @@
 
 - [Learning Platforms](#learning)
 - [Hosting services](#hosting)
-- [Coding Challenges](#Coding&nbsp;Challenge&nbsp;Platforms)
+- [Coding Challenges](#Coding&nbsp;Challenge)
 
 
 ## Learning:
@@ -43,7 +43,7 @@ Most of the hosting services listed her will give you access to host your files 
 * [Name Cheap](https://www.namecheap.com/)
 * [Bluehost](https://www.bluehost.com/)
 
-## Coding Challenge Platforms
+## Coding Challenge
 
 *Improve your skills by training with others on real code challenges*
 
