@@ -12,6 +12,7 @@
 
 - [Learning Platforms](#learning)
 - [Hosting services](#hosting)
+- [Coding Challenges](#Coding&nbsp;Challenge&nbsp;Platforms)
 
 
 ## Learning:
@@ -42,6 +43,20 @@ Most of the hosting services listed her will give you access to host your files 
 * [Name Cheap](https://www.namecheap.com/)
 * [Bluehost](https://www.bluehost.com/)
 
+## Coding Challenge Platforms
+
+*Improve your skills by training with others on real code challenges*
+
+* [Code Wars](codewars.com)
+* [Top Coder](http://topcoder.com)
+* [Coding Game](http://codingame.com)
+* [Hacker Rank](http://hackerrank.com)
+* [Project Euler](http://projecteuler.net)
+* [Coder Byte](http://coderbyte.com)
+* [Code Chef](http://codechef.com)
+* [Exercism](http://exercism.io)
+* [Leet Code](http://leetcode.com)
+* [Spoj](http://spoj.com)
 
 ## Tips
 * Contribute some ;)
