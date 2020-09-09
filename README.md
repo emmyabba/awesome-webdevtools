@@ -29,7 +29,7 @@
 
 ## Hosting
 
-Most of the hosting services listed her will give you access to host your files for free. 
+*Most of the hosting services listed her will give you access to host your files for free.*
 
 * [Netlify](https://www.netlify.com/)
 * [Firebase](https://firebase.google.com/)
