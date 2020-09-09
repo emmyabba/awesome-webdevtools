@@ -25,6 +25,7 @@
 * [Coursera](http://coursera.org)
 * [Khanacademy](http://khanacademy.org)
 * [Solo learn](http://sololearn.com)
+* [frontendmentor](http://frontendmentor.io)
 
 
 ## Hosting
@@ -42,6 +43,7 @@
 * [Digital ocean](https://www.digitalocean.com/)
 * [Name Cheap](https://www.namecheap.com/)
 * [Bluehost](https://www.bluehost.com/)
+* [Glitch](https://glitch.com)
 
 ## Coding Challenge
 
