@@ -62,7 +62,8 @@
 * [Spoj](http://spoj.com)
 
 ## Jobs
--
+
+* [Flexi Jobs](http://flexjobs.com/)
 
 ## Tips
 * Contribute some ;)
