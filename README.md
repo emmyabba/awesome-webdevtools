@@ -13,7 +13,7 @@
 - [Learning Platforms](#learning)
 - [Hosting services](#hosting)
 - [Coding Challenges](#Coding&nbsp;Challenge)
-
+- [Coding Jobs](#Jobs)
 
 ## Learning:
 
@@ -60,6 +60,9 @@
 * [Exercism](http://exercism.io)
 * [Leet Code](http://leetcode.com)
 * [Spoj](http://spoj.com)
+
+## Jobs
+-
 
 ## Tips
 * Contribute some ;)
