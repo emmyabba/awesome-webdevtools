@@ -64,6 +64,8 @@
 ## Jobs
 
 * [Flexi Jobs](http://flexjobs.com/)
+* [remote.co](https://remote.co/)
+
 
 ## Tips
 * Contribute some ;)
