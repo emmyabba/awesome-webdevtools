@@ -27,6 +27,7 @@
 * [Solo learn](http://sololearn.com)
 * [frontendmentor](http://frontendmentor.io)
 * [w3schools](https://www.w3schools.com/)
+* [JavaScript Info](JavaScript.info)
 
 
 ## Hosting
@@ -65,7 +66,7 @@
 
 * [Flexi Jobs](http://flexjobs.com/)
 * [remote.co](https://remote.co/)
-
+* [justremote](http://justremote.co)
 
 ## Tips
 * Contribute some ;)
