@@ -29,6 +29,7 @@
 * [w3schools](https://www.w3schools.com/)
 * [JavaScript Info](JavaScript.info)
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
+* [Programiz](https://www.programiz.com/)
 
 
 ## Hosting
