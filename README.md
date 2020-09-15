@@ -28,6 +28,7 @@
 * [frontendmentor](http://frontendmentor.io)
 * [w3schools](https://www.w3schools.com/)
 * [JavaScript Info](JavaScript.info)
+* [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 
 ## Hosting
