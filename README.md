@@ -35,6 +35,7 @@
 ## UI Inspiration
 * [site inspire](https://www.siteinspire.com)
 * [ui movement](https://uimovement.com)
+* [ui garage](https://uigarage.net/)
 
 ## Hosting
 
