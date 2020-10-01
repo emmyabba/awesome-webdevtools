@@ -82,6 +82,7 @@
 * [Flexi Jobs](http://flexjobs.com/)
 * [remote.co](https://remote.co/)
 * [justremote](http://justremote.co)
+* [we work](https://weworkremotely.com/)
 
 ## Tips
 * Contribute some ;)
