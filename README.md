@@ -85,7 +85,7 @@
 * [we work](https://weworkremotely.com/)
 * [remote ok](https://remoteok.io/)
 * [Dice](https://www.dice.com)
-
+* [Sologig](https://www.sologig.com)
 
 
 ## Tips
