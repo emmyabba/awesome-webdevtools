@@ -84,6 +84,9 @@
 * [justremote](http://justremote.co)
 * [we work](https://weworkremotely.com/)
 * [remote ok](https://remoteok.io/)
+* [Dice](https://www.dice.com)
+
+
 
 ## Tips
 * Contribute some ;)
