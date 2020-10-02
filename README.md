@@ -86,6 +86,8 @@
 * [remote ok](https://remoteok.io/)
 * [Dice](https://www.dice.com)
 * [Sologig](https://www.sologig.com)
+* [Gun io](https://www.gun.io)
+
 
 
 ## Tips
